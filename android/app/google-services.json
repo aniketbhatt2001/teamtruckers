@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "987177114066",
+    "project_id": "team-truckers",
+    "storage_bucket": "team-truckers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987177114066:android:724f7258c421ced8e9d00b",
+        "android_client_info": {
+          "package_name": "com.sc.teamtruckers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987177114066-bgcp6kgu38d4olclkeb4jesj9q35un6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJLaCxce0o0P76XT2zxXJ4FMNTrObek2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987177114066-bgcp6kgu38d4olclkeb4jesj9q35un6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
